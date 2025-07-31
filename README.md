@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Suraj!  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Suraj!</h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/the-suraj-as"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+page&center=true&width=380&height=45"></a>
 
 🚀 **Data Analyst | B.Sc Graduate | Ex-Product Analyst | Data Enthusiast**  
 
