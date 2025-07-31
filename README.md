@@ -3,7 +3,7 @@
 🚀 **A Data Analyst | B.Sc Graduate | Ex-Product Analyst | Data Enthusiast**  
 
 I’m passionate about exploring the world of data and turning numbers into actionable insights.  
-Graduated from **DRM Science College, Davanagere**, I have developed strong analytical skills and hands-on experience with tools like **Excel, MySQL, Power BI, and Python**.  
+I have developed strong analytical skills and hands-on experience with tools like **Excel, MySQL, Power BI, and Python**.  
 
 Currently, I’m expanding my knowledge in **Machine Learning** to strengthen my ability to solve real-world data problems.  
 
