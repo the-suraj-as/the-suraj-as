@@ -11,7 +11,7 @@ Currently, I’m expanding my knowledge in **Machine Learning** to strengthen my
 
 ### 🛠️ **Skills & Tools**  
 - **Data Analysis:** Excel, Power BI, MySQL  
-- **Programming:** Python (Pandas, NumPy, Matplotlib)  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Databases:** SQL-based querying  
 - **Started Learning:** Machine Learning, Predictive Modeling  
 
