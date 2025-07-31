@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Suraj!  
 
-🚀 **A Data Analyst | B.Sc Graduate | Ex-Product Analyst | Data Enthusiast**  
+🚀 **Data Analyst | B.Sc Graduate | Ex-Product Analyst | Data Enthusiast**  
 
 I’m passionate about exploring the world of data and turning numbers into actionable insights.  
 I have developed strong analytical skills and hands-on experience with tools like **Excel, MySQL, Power BI, and Python**.  
 
-Currently, I’m expanding my knowledge in **Machine Learning** to strengthen my ability to solve real-world data problems.  
+Currently, I have started learning **ML** to expand my knowledge and strengthen my ability to solve real-world data problems.  
 
 ---
 
