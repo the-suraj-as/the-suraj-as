@@ -29,7 +29,7 @@ Currently, I have started learning **ML** to expand my knowledge and strengthen 
 
 ### 📫 **Connect with Me**  
 - [LinkedIn](https://www.linkedin.com/in/suraj-a-s-2694b9303/)  
-- [Email](mailto:the.suraj.as@gmail.com?subject=Subject%20of%20Email&body=Body%20of%20email%0Awith%20line%20breaks.)
+- [Email](https://mail.google.com/mail/?view=cm&to=the.suraj.as@gmail.com)
 
 ---
 
