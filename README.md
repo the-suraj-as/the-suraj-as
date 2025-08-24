@@ -7,7 +7,7 @@
 🚀 **Data Analyst | B.Sc Graduate | Ex-Product Analyst | Data Enthusiast**  
 
 I’m passionate about exploring the world of data and turning numbers into actionable insights.  
-I have developed strong analytical skills and hands-on experience with tools like **Excel, Power BI** and I have learned **MySQL,  Python**.  
+I have developed strong analytical skills and hands-on experience with tools like **Excel, Power BI** and I am skilled in **MySQL,  Python**.  
 
 Currently, I have started learning **ML** to expand my knowledge and strengthen my ability to solve real-world data problems.  
 
