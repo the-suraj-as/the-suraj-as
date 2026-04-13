@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/the-suraj-as"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+page&center=true&width=380&height=45"></a>
 
-🚀 **Data Analyst | B.Sc Graduate | Ex-Product Analyst | Data Enthusiast**  
+🚀 **Data Analyst | B.Sc Graduate | Data Analyst | Data Enthusiast**  
 
 I’m passionate about exploring the world of data and turning numbers into actionable insights.  
 I have developed strong analytical skills and hands-on experience with tools like **Excel, Power BI** and I am skilled in **MySQL,  Python**.  
